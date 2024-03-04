@@ -12,7 +12,7 @@ Este é um projeto de exemplo que demonstra uma aplicação com API GraphQL com 
 . GraphQL
 . MySQL
 
-## Configuração:
+## Configuração (Realizar a leitura no README.md Code:
 
 1. Clone este repositório para o seu computador:
 	git clone https://github.com/deborabeatriz-f/GraphQL
@@ -20,14 +20,14 @@ Este é um projeto de exemplo que demonstra uma aplicação com API GraphQL com 
 2. Abra o repositório em sua IDE e abra o terminal do mesmo.
 
 2.1. Entrar na pasta projetoGraphQL e instalar as dependências:
-	2.1.1. Digitar no terminal: cd projetoGraphQL
-	2.1.2. Em seguida digitar: npm i 
-	2.1.3. E para voltar a pasta main, digitar: cd ..
+	 cd projetoGraphQL
+	 npm i 
+	 cd ..
 
 2.2 Entrar na pasta reactui e instalar as dependências:
-	2.2.1. Digitar no terminal: cd reactui
-	2.2.2. Em seguida digitar: npm i
-	2.2.3. E para voltar a pasta main, digitar: cd ..
+	 cd reactui
+	 npm i
+	 cd ..
 
 ## Como Executar GraphQL
 
