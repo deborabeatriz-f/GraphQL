@@ -20,14 +20,14 @@ Este é um projeto de exemplo que demonstra uma aplicação com API GraphQL com 
 2. Abra o repositório em sua IDE e abra o terminal do mesmo.
 
 2.1. Entrar na pasta projetoGraphQL e instalar as dependências:
-	cd projetoGraphQL
-	npm i 
-	cd ..
+	Digitar no terminal: cd projetoGraphQL
+	Em seguida digitar: npm i 
+	E para voltar a pasta main, digitar: cd ..
 
 2.2 Entrar na pasta reactui e instalar as dependências:
-	cd reactui
-	npm i
-	cd ..
+	Digitar no terminal: cd reactui
+	Em seguida digitar: npm i
+	E para voltar a pasta main, digitar: cd ..
 
 ## Como Executar GraphQL
 
